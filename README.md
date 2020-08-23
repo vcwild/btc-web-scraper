@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="./.github/logo.png" alt="Behind The Code Challenge 03" width="280"/>
+   <img src="./.github/logo.png" alt="Behind the Code Challenge 03" width="280"/>
 </p>
 
 <p align="center">	

@@ -10,7 +10,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-8257E5">
 </p>
 
-> :rocket: A simple web scrapper developed during IBM Behind the Code Challenge #03 | FIAP
+> :rocket: A simple web scraper developed during IBM Behind the Code Challenge #03 | FIAP
 
 
 # :pushpin: Table of Contents

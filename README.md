@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">	
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vcwild/btc-web-scrapper?color=774DD6">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vcwild/btc-web-scraper?color=774DD6">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/vcwild/btc-web-scrapper?color=774DD6">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/vcwild/btc-web-scraper?color=774DD6">
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-8257E5">
 </p>
@@ -39,7 +39,7 @@ This project was made using the following technologies:
 # :construction_worker: How to run
 ```bash
 # Clone this repo
-$ git clone https://github.com/vcwild/btc-web-scrapper.git
+$ git clone https://github.com/vcwild/btc-web-scraper.git
 ```
 ### 📦 Run Crawlers
 

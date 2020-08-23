@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">	
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vcwild/btc-web-scrapper">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vcwild/btc-web-scrapper?color=774DD6">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/vcwild/btc-web-scrapper">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/vcwild/btc-web-scrapper?color=774DD6">
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-8257E5">
 </p>
@@ -28,6 +28,7 @@ This project was made using the following technologies:
 
 * [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)      
 * [Python built-in modules](https://docs.python.org/3/py-modindex.html)         
+* Custom libraries
 
 # :rocket: Features
 

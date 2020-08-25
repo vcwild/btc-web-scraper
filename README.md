@@ -32,9 +32,9 @@ This project was made using the following technologies:
 
 # :rocket: Features
 
-* Web scrapping in TED Talk transcriptions.
-* Web scrapping Olhar Digital articles.
-* Web scrapping StartSe articles.
+* Web scraping in TED Talk transcriptions.
+* Web scraping Olhar Digital articles.
+* Web scraping StartSe articles.
 
 # :construction_worker: How to run
 ```bash
@@ -50,7 +50,7 @@ $ python3 main.py
 
 # :bug: Issues
 
-Found a bug? Feel free to post an [issue](https://github.com/vcwild/btc-web-scrapper/issues) with title and description.
+Found a bug? Feel free to post an [issue](https://github.com/vcwild/btc-web-scraper/issues) with title and description.
 
 
 # :closed_book: License
